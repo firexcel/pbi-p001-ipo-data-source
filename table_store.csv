@@ -1,0 +1,75 @@
+store_ID,store_code,geo_area_ID,country_code,country_name,state,open_date,close_date,description,square_metres,status
+10,1,1,AU,Australia,Australian Capital Territory,01/01/2008,,Firexcel Co Australian Capital Territory,595,
+20,2,3,AU,Australia,Northern Territory,12/01/2008,07/07/2016,Firexcel Co Northern Territory,665,Closed
+30,3,5,AU,Australia,South Australia,07/01/2012,08/08/2015,Firexcel Co South Australia,2000,Restructured
+35,3,5,AU,Australia,South Australia,08/12/2015,,Firexcel Co South Australia,3000,
+40,4,6,AU,Australia,Tasmania,01/01/2010,,Firexcel Co Tasmania,2000,
+50,5,7,AU,Australia,Victoria,09/12/2015,,Firexcel Co Victoria,2000,
+60,6,8,AU,Australia,Western Australia,01/01/2010,,Firexcel Co Western Australia,2000,
+70,7,12,CA,Canada,New Brunswick,07/05/2007,09/03/2014,Firexcel Co New Brunswick,1105,Restructured
+72,7,12,CA,Canada,New Brunswick,11/01/2015,02/02/2018,Firexcel Co New Brunswick,1500,Restructured
+74,7,12,CA,Canada,New Brunswick,02/06/2018,,Firexcel Co New Brunswick,3500,
+80,8,13,CA,Canada,Newfoundland and Labrador,02/07/2014,,Firexcel Co Newfoundland and Labrador,2105,
+90,9,15,CA,Canada,Northwest Territories,04/03/2005,,Firexcel Co Northwest Territories,1500,
+100,10,16,CA,Canada,Nunavut,04/04/2015,,Firexcel Co Nunavut,1210,
+110,11,21,CA,Canada,Yukon,03/06/2009,05/05/2015,Firexcel Co Yukon,1210,Closed
+120,12,41,FR,France,Basse-Normandie,06/06/2012,,Firexcel Co Basse-Normandie,350,
+130,13,46,FR,France,Corse,07/06/2013,,Firexcel Co Corse,245,
+140,14,47,FR,France,Franche-Comté,15/12/2009,,Firexcel Co Franche-Comté,350,
+150,15,55,FR,France,La Réunion,01/01/2015,,Firexcel Co La Réunion,400,
+160,16,52,FR,France,Limousin,03/06/2010,,Firexcel Co Limousin,385,
+170,17,57,FR,France,Martinique,08/07/2007,,Firexcel Co Martinique,350,
+180,18,58,FR,France,Mayotte,08/08/2012,,Firexcel Co Mayotte,310,
+190,19,23,DE,Germany,Berlin,04/04/2015,,Firexcel Co Berlin,1295,
+200,20,22,DE,Germany,Brandenburg,15/12/2012,08/08/2019,Firexcel Co Brandenburg,1715,Closed
+210,21,26,DE,Germany,Freie Hansestadt Bremen,03/06/2018,,Firexcel Co Freie Hansestadt Bremen,560,
+220,22,37,DE,Germany,Freistaat Thüringen,06/03/2008,,Firexcel Co Freistaat Thüringen,2000,
+230,23,28,DE,Germany,Hamburg,01/01/2010,,Firexcel Co Hamburg,1365,
+240,24,27,DE,Germany,Hessen,15/12/2012,,Firexcel Co Hessen,1855,
+250,25,29,DE,Germany,Mecklenburg-Vorpommern,01/01/2010,04/04/2015,Firexcel Co Mecklenburg-Vorpommern,1610,Restructured
+255,25,29,DE,Germany,Mecklenburg-Vorpommern,08/08/2015,,Firexcel Co Mecklenburg-Vorpommern,2800,
+260,26,34,DE,Germany,Saarland,05/03/2019,,Firexcel Co Saarland,350,
+270,27,36,DE,Germany,Sachsen-Anhalt,08/08/2008,,Firexcel Co Sachsen-Anhalt,2000,
+280,28,474,IT,Italy,Caltanissetta,15/12/2012,03/08/2017,Firexcel Co Caltanissetta,1200,Closed
+290,29,481,IT,Italy,Enna,01/01/2008,,Firexcel Co Enna,1000,
+300,30,519,IT,Italy,Pesaro,12/01/2008,,Firexcel Co Pesaro,2100,
+310,31,554,NL,Netherlands,Drenthe,07/01/2012,,Firexcel Co Drenthe,1085,
+320,32,555,NL,Netherlands,Flevoland,01/01/2010,,Firexcel Co Flevoland,910,
+330,33,556,NL,Netherlands,Friesland,09/12/2015,,Firexcel Co Friesland,1540,
+340,34,558,NL,Netherlands,Groningen,01/01/2010,,Firexcel Co Groningen,1365,
+350,35,564,NL,Netherlands,Zeeland,07/05/2007,06/07/2015,Firexcel Co Zeeland,1225,Closed
+360,36,74,GB,United Kingdom,Armagh,02/07/2014,,Firexcel Co Armagh,1300,
+370,37,79,GB,United Kingdom,Ayrshire,04/03/2005,,Firexcel Co Ayrshire,2100,
+380,38,89,GB,United Kingdom,Belfast,04/04/2015,,Firexcel Co Belfast,1800,
+390,39,96,GB,United Kingdom,Blaenau Gwent,03/06/2009,,Firexcel Co Blaenau Gwent,2100,
+400,40,166,GB,United Kingdom,Dungannon and South Tyrone,06/06/2012,,Firexcel Co Dungannon and South Tyrone,1300,
+410,41,193,GB,United Kingdom,Fermanagh,07/06/2013,09/09/2018,Firexcel Co Fermanagh,2100,Closed
+420,42,291,GB,United Kingdom,North Down,15/12/2009,,Firexcel Co North Down,1900,
+430,43,566,US,United States,Alaska,01/01/2015,,Firexcel Co Alaska,1190,
+440,44,568,US,United States,Arkansas,03/06/2010,,Firexcel Co Arkansas,2000,
+450,45,572,US,United States,Connecticut,08/07/2007,,Firexcel Co Connecticut,2000,
+460,46,574,US,United States,Delaware,08/08/2012,03/03/2015,Firexcel Co Delaware,1015,Restructured
+465,46,574,US,United States,Delaware,06/06/2015,03/08/2019,Firexcel Co Delaware,1015,Closed
+470,47,577,US,United States,Hawaii,04/04/2015,,Firexcel Co Hawaii,1120,
+480,48,579,US,United States,Idaho,15/12/2012,,Firexcel Co Idaho,1540,
+490,49,578,US,United States,Iowa,03/06/2018,,Firexcel Co Iowa,2000,
+500,50,582,US,United States,Kansas,06/03/2008,,Firexcel Co Kansas,2000,
+510,51,587,US,United States,Maine,01/01/2010,,Firexcel Co Maine,1295,
+520,52,591,US,United States,Mississippi,03/06/2009,03/06/2015,Firexcel Co Mississippi,2000,Closed
+530,53,592,US,United States,Montana,06/06/2012,,Firexcel Co Montana,1260,
+540,54,595,US,United States,Nebraska,07/06/2013,,Firexcel Co Nebraska,2000,
+550,55,599,US,United States,Nevada,15/12/2009,,Firexcel Co Nevada,2000,
+560,56,596,US,United States,New Hampshire,01/01/2015,,Firexcel Co New Hampshire,1260,
+570,57,598,US,United States,New Mexico,03/06/2010,,Firexcel Co New Mexico,1645,
+580,58,594,US,United States,North Dakota,08/07/2007,06/07/2015,Firexcel Co North Dakota,1330,Restructured
+585,58,594,US,United States,North Dakota,15/12/2015,,Firexcel Co North Dakota,3500,
+590,59,603,US,United States,Oregon,08/08/2012,,Firexcel Co Oregon,2000,
+600,60,605,US,United States,Rhode Island,04/04/2005,05/12/2013,Firexcel Co Rhode Island,1260,Restructured
+605,60,605,US,United States,Rhode Island,03/06/2014,,Firexcel Co Rhode Island,1260,
+610,61,606,US,United States,South Carolina,15/12/2012,,Firexcel Co South Carolina,2000,
+620,62,607,US,United States,South Dakota,03/06/2018,,Firexcel Co South Dakota,1120,
+630,63,610,US,United States,Utah,06/03/2008,03/11/2019,Firexcel Co Utah,2000,
+650,65,573,US,United States,Washington DC,01/01/2010,,Firexcel Co Washington DC,1330,
+660,66,615,US,United States,West Virginia,01/01/2012,,Firexcel Co West Virginia,1785,
+670,67,616,US,United States,Wyoming,01/01/2014,,Firexcel Co Wyoming,840,
+999999,-1,-1,--,Online,Online,01/01/2010,,Online store,,
